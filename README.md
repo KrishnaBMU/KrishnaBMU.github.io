@@ -11,9 +11,9 @@
 - Bauxite
 
 ## Legend
-![Legend](Screenshots/legend.png)
+![Legend](screenshots/legend.png)
 
 ## Map
-![Map](Screenshots/map.png)
+![Map](screenshots/map.png)
 
 Website: [https://krishnabmu.github.io/](krishnabmu))
